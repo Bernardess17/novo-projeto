@@ -1,0 +1,248 @@
+.contene-principal{
+    display: flex;
+    
+
+}
+.contene-segundario{
+    display: table-caption;
+    background-color: #1C1D22;
+    height: 718px;
+    width: 93px;
+    margin-left: -8px;
+    margin-top: -10px;
+}
+.logo{
+    display: flex;
+    margin-left: 30px;
+    margin-top: 80px;
+
+}
+.icones{
+    display: flex;
+    height: 369px;
+    margin-top: 29px;
+    margin-left: 21px;
+}
+.saida {
+    display: flex;
+    margin-left: 31px;
+    margin-top: 170px;
+}
+.ovals {
+    display: flex;
+    margin-top: 8px;
+    margin-left: 27px;
+}
+.projects️{
+    display: flex;
+    height: 714px;
+    width: 318px;
+    margin-top: -8px;
+
+}
+h1 {
+    display: flex;
+    margin-left: 47px;
+    margin-top: 34px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.teste{
+    display: block;
+    margin-left: 107px;
+    margin-top: 38px;
+}
+.team {
+    display: flex;
+    margin-top: 117px;
+    margin-left: -242px;
+    font-family: sans-serif;
+}
+h3 {
+    display: ruby-text;
+    margin-top: 158px;
+    margin-left: -40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.sub {
+    display: block;
+    margin-left: -68px;
+    margin-top: 196px;
+    font-family: math;
+
+}
+.tasks {
+    margin-top: 33px;
+    margin-left: -64px;
+} 
+.sub-texto {
+    display: flow;
+    margin-left: -17px;
+    margin-top: 32px;
+}
+.welcome {
+    display: flex;
+    width: 1210px;
+    height: 94px;
+}
+.welcome p {
+    display: flex;
+    margin-left: 7px;
+    margin-top: 37px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.welcome img {
+    display: flex;
+    height: 33px;
+    margin-left: 611px;
+    margin-top: 30px;
+}
+.board {
+    display: flex;
+    width: 1106px;
+    /* border: 1px solid black; */
+    height: 50px;
+    margin-top: 82px;
+    margin-left: -1207px;
+}
+.board img {
+    display: flex;
+    height: 14px;
+    margin-top: 18px;
+    margin-left: 16px;
+}
+.board p {
+    display: flex;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.board span {
+    display: flex;
+    font-family: math;
+    margin-top: 19px;
+    font-size: 12px;
+    margin-left: 11px;
+}
+.teste1 p {
+    display: flex;
+    margin-left: 624px;
+
+}   
+.teste1 span {
+    display: flex;
+    margin-left: 687px;
+    margin-top: -30px;
+    font-family: math;
+    
+}
+.teste1 img {
+    display: flex;
+    margin-left: 719px;
+    margin-top: -18px;
+    height: 21px;
+}
+.template {
+    display: flex;
+    margin-left: 759px;
+    margin-top: -28px;
+    border-radius: 16px;
+    /* border: 1px solid black; */
+    height: 31px;
+    width: 103px;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding-left: 10px;
+}
+.task {
+    display: inline;
+    height: 551px;
+    margin-left: -1106px;
+    width: 340px;
+    margin-top: 145px;
+}
+.task Span {
+    display: flex;
+    margin-left: 216px;
+    margin-top: -34px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.task p {
+    display: flex;
+    margin-left: 17px;
+    margin-top: 14px;
+    
+}
+.task img {
+    display: flex;
+    margin-left: 188px;
+    margin-top: -19px;
+    height: 20px;
+}
+.sub-titulo p {
+    display: flex;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.sub-titulo span {
+    margin-left: 50px;
+    margin-top: -10px;
+    font-family: math;
+}
+.sub-titulo img{
+    display: flex;
+    margin-left: 299px;
+    margin-top: -41px;
+}
+.design p {
+    display: flex;
+    margin-top: 42px;
+    margin-left: 49px;
+    }
+.design span {
+    display: flex;
+    margin-left: 260px;
+}
+
+.design img {
+    display: flex;
+    margin-left: 24px;
+}
+.grafico img {
+    display: flex;
+    margin-top: 11px;
+    height: 4px;
+}
+.resultado img {
+    display: flex;
+    height: 24px;
+    width: 277px;
+    margin-top: 10px;
+}
+.pai{
+    display: inline;
+    /* border: 1px solid black; */
+    height: 563px;
+    margin-left: -1106px;
+    width: 340px;
+    margin-top: 140px;
+}
+.filho {
+    display: inline;
+    /* border: 1px solid black; */
+    height: 563px;
+    margin-left: 26px;
+    width: 340px;
+    margin-top: 140px;
+}
+.neto {
+    display: inline;
+    /* border: 1px solid black; */
+    height: 563px;
+    margin-left: 30px;
+    width: 340px;
+    margin-top: 140px;
+}
